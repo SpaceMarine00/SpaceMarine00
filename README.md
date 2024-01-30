@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SpaceMarine00
+- 👀 I’m interested in Software Engineering and Cybersecurity
+- 🌱 I’m currently learning Penetration Testing and Cybersecurity
+- 📫 How to reach me: Email is Astro1215@outlook.com
+- ⚡ Fun fact: Marine Corps Veteran, Security+ Certified
